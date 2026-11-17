@@ -3,7 +3,7 @@ name: Calculator CI
 on:
   push:
     branches: main
-  pull-request:
+  pull_request:
 
 permissions:
   contents: read
